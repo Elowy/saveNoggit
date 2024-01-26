@@ -1,0 +1,14 @@
+C:\Users\ebola\source\repos\savedir\savedir\bin\Debug\net6.0\savedir.exe
+C:\Users\ebola\source\repos\savedir\savedir\bin\Debug\net6.0\savedir.deps.json
+C:\Users\ebola\source\repos\savedir\savedir\bin\Debug\net6.0\savedir.runtimeconfig.json
+C:\Users\ebola\source\repos\savedir\savedir\bin\Debug\net6.0\savedir.dll
+C:\Users\ebola\source\repos\savedir\savedir\bin\Debug\net6.0\savedir.pdb
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.AssemblyInfoInputs.cache
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.AssemblyInfo.cs
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.csproj.CoreCompileInputs.cache
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.dll
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\refint\savedir.dll
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.pdb
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\savedir.genruntimeconfig.cache
+C:\Users\ebola\source\repos\savedir\savedir\obj\Debug\net6.0\ref\savedir.dll
